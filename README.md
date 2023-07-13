@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thatjordandude
-- 🌱 I’m currently learning evrything I can about the software world. I am currently learning python and related languages
+- 🌱 I’m currently learning everything I can about the software world. I am currently learning python and related languages
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 You can reach me on my github
 
